@@ -1,6 +1,7 @@
 # shadowsocks-libev
 
 [![Travis CI](https://travis-ci.org/shadowsocks/shadowsocks-libev.svg?branch=master)](https://travis-ci.org/shadowsocks/shadowsocks-libev) [![Snap Status](https://build.snapcraft.io/badge/shadowsocks/shadowsocks-libev.svg)](https://build.snapcraft.io/user/shadowsocks/shadowsocks-libev)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshadowsocks%2Fshadowsocks-libev.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshadowsocks%2Fshadowsocks-libev?ref=badge_shield)
 
 ## Intro
 
@@ -533,3 +534,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshadowsocks%2Fshadowsocks-libev.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshadowsocks%2Fshadowsocks-libev?ref=badge_large)
